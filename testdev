@@ -1,0 +1,60 @@
+<a href="https://www.flipkart.com/boat-nirvanaa-751-anc-hybrid-active-noise-cancellation-bluetooth/p/itm39a2296d57eea?pid=ACCG9AC9QZNHYTMK&lid=LSTACCG9AC9QZNHYTMK29CRL5&marketplace=FLIPKART&hl_lid=&q=boat+headphones+3000&store=0pm%2Ffcn&ctx=eyJkZWxpdmVyZWRCeSI6IiIsImRpc3BsYXlQcmljZSI6IjI3NDUifQ%3D%3D&fm=eyJ3dHAiOiJwcm9kdWN0Q2FyZExpc3QiLCJwcnB0Ijoic3AiLCJtaWQiOiJQUk9EVUNUIn0&pageUID=1786902134341" target="_blank">Back to Flipkart</a>
+<p>
+   boAt Nirvanaa 751 ANC Hybrid Active 
+</p>
+<p>
+   ₹2,745 - In stock
+</p> 
+ <p>
+   Free delivery by tommorow
+   </p>
+ <style>
+   .cart-button{
+     background-color: #92f502;
+     color: white;
+     height: 50px;
+     width: 100px;
+     border: none;
+     border-radius: 3px;
+     cursor: pointer;
+     margin-right: 20px;
+     transition: opacity 0.15s;
+     box-shadow: 2px,3px,black;
+     transition: box-shadow 0.15s ;
+     }
+     .cart-button:active{
+       box-shadow:- 5px,5px,10px,grey;
+       
+     }
+     
+     
+ </style>
+<button class="cart-button">
+  Add to cart</button> 
+  <style>
+   .buy-button {
+     background-color: white;
+     color: blue;
+     height: 50px;
+     width: 80px;
+     border-radius: 3px;
+     cursor: pointer;
+     border-color: ##2929ad89;
+     border-width: 1px;
+     font-weight: bold;
+     font-size: 15px;
+   }
+     .buy-button:active{
+       background-color: yellow;
+       color: black;
+       box-shadow:5px 5px 10px black;
+       
+     }
+     
+     
+   } 
+    
+  </style>
+  <button class="buy-button">
+    Buy now
+    </button>
